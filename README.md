@@ -7,4 +7,5 @@ sureV has prime skidding potential due to its beginner level design, being easy 
 # Check Locations
 
 src/main/java/me/levansj01/verus/check/checks
+
 src/main/java/me/levansj01/verus/type/premium/checks
